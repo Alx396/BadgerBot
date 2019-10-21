@@ -10,6 +10,22 @@
     <template>Wenas don</template>
 </category>
 <category>
+    <pattern>F</pattern>
+    <template>F bro</template>
+</category>
+<category>
+    <pattern>Fail</pattern>
+    <template>Feil</template>
+</category>
+<category>
+    <pattern>Que tal</pattern>
+    <template>Meh</template>
+</category>
+<category>
+    <pattern>Como te llamas</pattern>
+    <template>BadgerBot</template>
+</category>
+<category>
     <pattern></pattern>
     <template></template>
 </category>
