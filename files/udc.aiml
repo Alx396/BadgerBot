@@ -4,4 +4,13 @@
     <pattern>*</pattern>
     <template>I have no answer for that.</template>
   </category>
+
+<category>
+    <pattern>Hola</pattern>
+    <template>Wenas don</template>
+</category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
 </aiml>
